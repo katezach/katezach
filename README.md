@@ -4,9 +4,10 @@
 **katezach/katezach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-logo={katezach31}
+[logo={katezach31}
 logoColor={blue}
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+)
 
 
 - 🔭 I’m currently working on ...
