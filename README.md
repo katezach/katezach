@@ -9,7 +9,7 @@
 <a href="https://instagram.com/katezach31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katezach31" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katezach&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D_width=524)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katezach&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&width=524)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
