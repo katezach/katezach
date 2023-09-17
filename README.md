@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/katezach31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katezach31" height="30" width="40" /></a>
 <a href="https://instagram.com/katezach31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katezach31" height="30" width="40" /></a>
 </p>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=katezach"></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katezach&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
