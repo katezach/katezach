@@ -1,6 +1,7 @@
-# 💫 About Me:
-22 years old<br>BSc Computer Science - Aristotle University of Thessaloniki, Greece<br>MSc Artificial Intelligence - Leiden University, Netherlands
-
+# 👩🏽‍💻 About Me:
+22 years old from Cyprus. <br>
+BSc Computer Science - Aristotle University of Thessaloniki, Greece<br>
+MSc Artificial Intelligence - Leiden University, Netherlands
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/katezach31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katezach31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katezach31) 
