@@ -1,5 +1,5 @@
 # 👩🏽‍💻 About Me:
-22 years old from Cyprus. <br>
+23 years old from Cyprus. <br>
 BSc Computer Science - Aristotle University of Thessaloniki, Greece<br>
 MSc Artificial Intelligence - Leiden University, Netherlands
 
